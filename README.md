@@ -1,5 +1,5 @@
 # Retrofit封装库
-[ ![Download](https://api.bintray.com/packages/itxiaox/maven/retrofit/images/download.svg?version=1.0.0) ](https://bintray.com/itxiaox/maven/retrofit/1.0.0/link)
+[ ![Download](https://api.bintray.com/packages/itxiaox/maven/retrofit/images/download.svg?version=1.0.2) ](https://jitpack.io/private#itxiaox/xretrofit/1.0.2)
 
 ------------
 
@@ -13,14 +13,12 @@ gradle 引用
     allprojects {
         repositories {
             jcenter()
-            maven {
-                url 'https://dl.bintray.com/itxiaox/maven/'
-            }
+          maven { url 'https://jitpack.io' }
         }
     }
     在module 中添加依赖
 
-    implementation 'com.itxiaox:retrofit:1.0.0'
+   implementation 'com.github.itxiaox:xretrofit:1.0.2'
 
 代码中使用：
 
