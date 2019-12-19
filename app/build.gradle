@@ -26,6 +26,6 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 //    implementation project(path: ':xretrofit')
-//    implementation 'com.github.itxiaox:xretrofit:1.0.0'
+//    implementation 'com.github.itxiaox:xretrofit:1.0.1'
     implementation 'com.orhanobut:logger:2.2.0'
 }
