@@ -1,6 +1,8 @@
 # Retrofit封装库
 [ ![Download](https://api.bintray.com/packages/itxiaox/maven/retrofit/images/download.svg?version=1.0.2) ](https://jitpack.io/private#itxiaox/xretrofit/1.0.2)
 
+可在实际项目中正式使用
+
 ------------
 
 
