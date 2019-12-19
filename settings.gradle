@@ -1,2 +1,2 @@
-include ':app', ':xretrofit'
-rootProject.name='xretrofit'
+include ':app', ':library'
+
