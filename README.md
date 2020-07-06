@@ -1,5 +1,5 @@
 # Retrofit封装库
-[ ![Download](https://api.bintray.com/packages/itxiaox/maven/retrofit/images/download.svg?version=1.0.2) ](https://jitpack.io/private#itxiaox/xretrofit/1.0.2)
+[![](https://jitpack.io/v/itxiaox/xretrofit.svg)](https://jitpack.io/#itxiaox/xretrofit)
 
 可在实际项目中正式使用
 
@@ -20,7 +20,7 @@ gradle 引用
     }
     在module 中添加依赖
 
-   implementation 'com.github.itxiaox:xretrofit:1.0.2'
+  implementation 'com.github.itxiaox:xretrofit:1.0.3'
 
 代码中使用：
 
