@@ -4,20 +4,24 @@
  对retrofit 进行封装 ，在项目更加简单易用  ,可在实际项目中正式使用
 
 # 使用方法
-gradle 引用
-    在根gradle中添加
+***gradle 引用***
 
+    在根gradle中添加
+```
     allprojects {
         repositories {
             jcenter()
           maven { url 'https://jitpack.io' }
         }
     }
+   ```
+   
     在module 中添加依赖
-
+```
   implementation 'com.github.itxiaox:xretrofit:1.0.3'
+  ```
 
-代码中使用：
+***代码中使***
 
  - 一般情况下可以采用默认的调用方式
  
