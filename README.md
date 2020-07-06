@@ -1,13 +1,7 @@
 # Retrofit封装库
-
 [![](https://jitpack.io/v/itxiaox/xretrofit.svg)](https://jitpack.io/#itxiaox/xretrofit)
 
-可在实际项目中正式使用
-
-------------
-
-
-   对retrofit 进行封装 ，在项目更加简单易用
+ 对retrofit 进行封装 ，在项目更加简单易用  ,可在实际项目中正式使用
 
 # 使用方法
 gradle 引用
