@@ -1,4 +1,5 @@
 # Retrofit封装库
+
 [![](https://jitpack.io/v/itxiaox/xretrofit.svg)](https://jitpack.io/#itxiaox/xretrofit)
 
 可在实际项目中正式使用
