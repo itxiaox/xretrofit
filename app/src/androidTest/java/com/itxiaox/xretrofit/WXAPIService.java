@@ -31,4 +31,5 @@ public interface WXAPIService {
     @Streaming
     @GET
     Call<ResponseBody> download(@Url String url);
+    //apkUrl=http://39.100.73.14:8001/androidFile/version/智慧校园_V1.0.1 _20200323_101_jiagu_sign.apk
 }

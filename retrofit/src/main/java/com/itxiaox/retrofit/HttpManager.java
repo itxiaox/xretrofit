@@ -44,9 +44,7 @@ public class HttpManager {
      * @param config 自定义配置
      */
     public static void init(HttpConfig config){
-        if (instance == null){
-            instance = new HttpManager(config);
-        }
+        instance = new HttpManager(config);
     }
 
     public static HttpManager getInstance(){
